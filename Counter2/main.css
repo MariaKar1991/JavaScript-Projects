@@ -1,0 +1,7 @@
+main > div {
+  height: calc(90vh);
+}
+
+#counter {
+  display: inline-block;
+}
