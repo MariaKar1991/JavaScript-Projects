@@ -1,1 +1,1 @@
-# JavaScript-Projects #
+# JavaScript-Projects - Coding Factory Bootcamp Practice
